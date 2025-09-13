@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prashastisahu-datascience) 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/prashastisahu)  
-✉️ [Email](mailto:prashastisahu19@gmail.com)  
+✉️ [Email](prashastisahu19@gmail.com)  
 
 ---
 
@@ -46,6 +46,6 @@
 
 ## 📄 Publications & Results
 - 📑 *Analyzing Real Options and Flexibility in Engineering Systems Design Using Decision Rules and DRL* (to be published)  
-- 📊 Code used in research projects available in this repo: [Network-Migration](https://github.com/prashastisahu/Network-Migration)  
+- 📊 Code used in research projects available in this repo: [Network-Migration](https://github.com/prashastisahu/DRL-Migration)  
 
 
