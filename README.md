@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prashastisahu-datascience) 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/prashastisahu)  
-✉️ [Email](mailto:prashastisahu13@gmail.com)  
+✉️ [Email](mailto:prashastisahu19@gmail.com)  
 
 ---
 
