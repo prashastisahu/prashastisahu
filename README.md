@@ -1,55 +1,55 @@
-# Hi, I’m Prashasti 👋  
+# Hi, I'm Prashasti Sahu 👋  
 
-🎓 **Researcher in Communication Networks** | TU Chemnitz  
-🔬 Focused on **Deep Reinforcement Learning (DRL)**, **Network Migration Planning**, and **Techno-Economic Optimization**  
-💡 Exploring how AI can drive resilient, flexible, and cost-efficient optical transport networks  
+**ML Engineer | Python Developer**  
+📍 Chemnitz, Germany  
 
----
-
-## 🚀 Research Interests
-- **Network Migration & Planning** – Migration strategies from Monolithic OTN to Disaggregated/DOTS/PLE architectures  
-- **AI for Networks** – Applying DRL (PPO, DQN) and Decision Rules for capacity & migration decisions  
-- **Techno-Economic Modeling** – CAPEX/OPEX analysis, NPV/ENPV optimization under uncertainty  
-- **Traffic Forecasting** – Stochastic demand growth, scenario-based planning  
-- **Optimization Methods** – Integer Linear Programming (ILP), Metaheuristics
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prashastisahu-datascience) 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/prashastisahu)  
+✉️ [Email](mailto:prashastisahu13@gmail.com)  
 
 ---
 
-## 🔬 Featured Projects
-
-### [DRL-Migration](https://github.com/prashastisahu/DRL-Migration)  
-**PPO-based migration and capacity planning** framework for optical networks.  
-- Models stochastic traffic growth and demand uncertainty  
-- Action space: per-demand capacity + per-node migration  
-- Evaluates ENPV, payback, and techno-economic trade-offs  
-
----
-
-### [I-RARC](https://github.com/prashastisahu/I-RARC)  
-**ILP-based Resource Assignment and RDD Construction**  
-- Optimizes routing and resource allocation in communication networks  
-- Focus on efficient spectrum usage and cost reduction  
+## 🛠️ Skills
+- **Programming:** Python  
+- **Libraries & Frameworks:** Pandas, NumPy, PyTorch, scikit-learn  
+- **Visualization:** Matplotlib  
+- **DevOps & Tools:** Git, CPLEX  
+- **Languages:** English (C1), German (B1), Hindi (C2)  
 
 ---
 
-### [Pattern-Recognition](https://github.com/prashastisahu/Pattern-Recognition)  
-A collection of **machine learning models** for classification and pattern recognition, using scikit-learn and PyTorch.  
+## 📌 Featured Projects
+
+### 🔹 [Network Planning & Migration Framework](https://github.com/prashastisahu/Network-Migration)  
+- Python framework to simulate **OTN-over-WDM network migration** under uncertainty.  
+- Implemented **techno-economic evaluation** with CAPEX, OPEX, NPV, and revenue models.  
+- Added **DRL (PPO) agent** for migration decision-making with scenario-based traffic (10k+ simulations).  
+- 🔧 *Skills:* Python, optimization, PyTorch, simulation  
 
 ---
 
-## 📈 Skills & Tools
-- **Languages**: Python, MATLAB  
-- **ML/DL**: PyTorch, Gymnasium, scikit-learn, time series modeling  
-- **Optimization**: Gurobi, ILP, metaheuristics  
-- **Network Modeling**: NetworkX, custom simulators for OTN/WDM  
-- **Data**: Pandas, NumPy, Matplotlib, Seaborn  
+### 🔹 [Financial Client Classification (Openwork Internship)](https://github.com/prashastisahu/Financial-ML)  
+- Built **LightGBM and decision tree models** to classify client segments.  
+- Conducted **exploratory data analysis** and generated business insights.  
+- Delivered improved accuracy compared to baseline manual segmentation.  
+- 🔧 *Skills:* Python, Pandas, LightGBM, scikit-learn  
 
 ---
 
-## 📫 Let’s Connect
-- ✉️ Email: prashastisahu13@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/prashastisahu-datascience/) 
+### 🔹 [Deep Learning for Optical Communications](https://github.com/prashastisahu/Optical-Equalization)  
+- Benchmarked **deep learning time-series models** for equalization in optical links.  
+- Improved robustness against **chromatic dispersion and jitters**.  
+- Contributed to **Master’s thesis research** at KIT.  
+- 🔧 *Skills:* PyTorch, signal processing, ML for communications  
 
 ---
 
-⭐️ *Pinned repositories showcase my work on DRL, optimization, and network migration.*  
+## 📄 Publications & Results
+- 📑 *Analyzing Real Options and Flexibility in Engineering Systems Design Using Decision Rules and DRL* (to be published)  
+- 📊 Code used in research projects available in this repo: [Network-Migration](https://github.com/prashastisahu/Network-Migration)  
+
+---
+
+## 📊 GitHub at a Glance
+![Prashasti's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashastisahu&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashastisahu&layout=compact)  
