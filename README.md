@@ -13,7 +13,7 @@
 - **Programming:** Python  
 - **Libraries & Frameworks:** Pandas, NumPy, PyTorch, scikit-learn  
 - **Visualization:** Matplotlib  
-- **DevOps & Tools:** Git, CPLEX  
+- **DevOps & Tools:** Git 
 - **Languages:** English (C1), German (B1), Hindi (C2)  
 
 ---
