@@ -1,7 +1,7 @@
 # Hi, I'm Prashasti Sahu 👋  
 
 **ML Engineer | Python Developer**  
-📍 Chemnitz, Germany  
+📍 Leipzig, Germany  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prashastisahu-datascience) 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/prashastisahu)  
