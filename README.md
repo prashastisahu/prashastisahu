@@ -11,7 +11,8 @@
 
 ## 🛠️ Skills
 - **Programming:** Python  
-- **Libraries & Frameworks:** Pandas, NumPy, PyTorch, scikit-learn  
+- **Libraries & Frameworks:** Pandas, NumPy, PyTorch, scikit-learn, cv2, cvlib
+- **Deployment:** FastAPI, uvicorn
 - **Visualization:** Matplotlib  
 - **DevOps & Tools:** Git 
 - **Languages:** English (C1), German (B1), Hindi (C2)  
