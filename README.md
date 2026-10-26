@@ -15,7 +15,7 @@
 - **Deployment:** FastAPI, uvicorn
 - **Visualization:** Matplotlib  
 - **DevOps & Tools:** Git 
-- **Languages:** English (C1), German (B1), Hindi (C2)  
+- **Languages:** English (C1), German (B2), Hindi (C2)  
 
 ---
 
