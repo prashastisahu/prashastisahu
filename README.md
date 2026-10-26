@@ -46,7 +46,7 @@
 ---
 
 ## 📄 Publications & Results
-- 📑 *Analyzing Real Options and Flexibility in Engineering Systems Design Using Decision Rules and DRL* (to be published)  
+- 📑 Multiperiod Migration Planning of Multilayer Networks subject to Deep Traffic Uncertainties (ONDM 2026)  
 - 📊 Code used in research projects available in this repo: [Network-Migration](https://github.com/prashastisahu/DRL-Migration)  
 
 
